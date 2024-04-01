@@ -11,6 +11,9 @@ body {
   background-image: url(./image/Background.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+  box-shadow: 1em 1em 6em 0.2em;
+  width: 700px;
+  height: auto;
 }
 h1 {
   font-family: "Anton", sans-serif;
